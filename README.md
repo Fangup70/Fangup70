@@ -68,7 +68,6 @@ const anup = {
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
@@ -95,8 +94,8 @@ const anup = {
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
-| 🖼️ **AI Image Studio** | AI-powered image analysis and captioning platform with multimodal AI | React, TypeScript, Node.js, Express, Google Gemini API, Tailwind | [Demo](#) \| [Code](#) |
-| 💼 **Portfolio Website** | Personal portfolio with server-side rendering and 90+ Lighthouse scores | Next.js, React, Tailwind, TypeScript | [Live](#) \| [Code](#) |
+| 🖼️ **AI Image Studio** | AI-powered image analysis and captioning platform with multimodal AI | React, TypeScript, Node.js, Express, Google Gemini API, Tailwind | [Demo](#) 
+| 💼 **Portfolio Website** | Personal portfolio with server-side rendering and 90+ Lighthouse scores | Next.js, React, Tailwind, TypeScript | [Live](https://my-portfolio-pi-three-50.vercel.app/) }
 | 🚗 **Car Rental System** | Full-featured car rental management application | PHP, MySQL, JavaScript | [Code](https://github.com/Fangup70/Car-rental-System) |
 | 💰 **Payroll Management** | Complete payroll system with admin workflows | PHP, MySQL, JavaScript | [Code](https://github.com/Fangup70/payroll-management-system) |
 
@@ -109,21 +108,6 @@ const anup = {
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Fangup70&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Fangup70&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fangup70&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
-</div>
-
-### 📈 Contribution Graph
-[![Anup's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Fangup70&theme=tokyo-night&hide_border=true)](https://github.com/Fangup70)
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Fangup70&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -157,7 +141,7 @@ const anup = {
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anupkumar06)
 [![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akrio2218@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-url.com)
+[![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://my-portfolio-pi-three-50.vercel.app/)
 
 </div>
 
