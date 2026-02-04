@@ -71,23 +71,6 @@ const anup = {
 
 ---
 
-## 💼 Experience
-
-### 🔹 Full Stack Developer Intern | Dotch Endeavours Pvt. Ltd.
-**Sep 2024 - Dec 2024**
-- Built **Payroll Management System** using PHP, MySQL, and JavaScript
-- Improved UI responsiveness and data accuracy through CRUD operations
-- Reduced manual entry errors with automated workflows
-- Collaborated using Git version control and code reviews
-
-### 🔹 Python Developer Intern | VaultOfCodes
-**Oct 2023 - Nov 2023**
-- Completed OOP and Data Structures modules
-- Developed Python mini-apps with validation and file-handling
-- Built a **password manager** with encrypted local storage
-
----
-
 ## 🎯 Featured Projects
 
 <div align="center">
@@ -95,7 +78,7 @@ const anup = {
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
 | 🖼️ **AI Image Studio** | AI-powered image analysis and captioning platform with multimodal AI | React, TypeScript, Node.js, Express, Google Gemini API, Tailwind | [Demo](#) 
-| 💼 **Portfolio Website** | Personal portfolio with server-side rendering and 90+ Lighthouse scores | Next.js, React, Tailwind, TypeScript | [Live](https://my-portfolio-pi-three-50.vercel.app/) }
+| 💼 **Portfolio Website** | Personal portfolio with server-side rendering and 90+ Lighthouse scores | Next.js, React, Tailwind, TypeScript | [Live](https://my-portfolio-pi-three-50.vercel.app/) 
 | 🚗 **Car Rental System** | Full-featured car rental management application | PHP, MySQL, JavaScript | [Code](https://github.com/Fangup70/Car-rental-System) |
 | 💰 **Payroll Management** | Complete payroll system with admin workflows | PHP, MySQL, JavaScript | [Code](https://github.com/Fangup70/payroll-management-system) |
 
