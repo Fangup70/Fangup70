@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hi, I'm Anup Kumar S P
+# Hi👋, I'm Anup Kumar S P
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Integration+Specialist;Building+Scalable+Web+Apps;Open+Source+Enthusiast" alt="Typing SVG" />
 
@@ -14,7 +14,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 ```typescript
 const anup = {
@@ -27,10 +27,10 @@ const anup = {
 };
 ```
 
-🔭 **Currently Working On:** Enhancing my personal portfolio and building scalable web applications  
-🤝 **Looking to Collaborate:** Open-source projects and freelance web development  
-🌱 **Currently Learning:** Advanced React patterns, TypeScript, and System Design  
-💬 **Ask Me About:** Full-stack development, Next.js, React, Node.js, AI integration
+ **Currently Working On:** Enhancing my personal portfolio and building scalable web applications  
+ **Looking to Collaborate:** Open-source projects and freelance web development  
+ **Currently Learning:** Advanced React patterns, TypeScript, and System Design  
+ **Ask Me About:** Full-stack development, Next.js, React, Node.js, AI integration
 
 ---
 
@@ -70,16 +70,16 @@ const anup = {
 
 ---
 
-## 🎯 Featured Projects
+## Featured Projects
 
 <div align="center">
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
-| 🖼️ **AI Image Studio** | AI-powered image analysis and captioning platform with multimodal AI | React, TypeScript, Node.js, Express, Google Gemini API, Tailwind | [Demo](#) 
-| 💼 **Portfolio Website** | Personal portfolio with server-side rendering and 90+ Lighthouse scores | Next.js, React, Tailwind, TypeScript | [Live](https://my-portfolio-pi-three-50.vercel.app/) 
-| 🚗 **Car Rental System** | Full-featured car rental management application | PHP, MySQL, JavaScript | [Code](https://github.com/Fangup70/Car-rental-System) |
-| 💰 **Payroll Management** | Complete payroll system with admin workflows | PHP, MySQL, JavaScript | [Code](https://github.com/Fangup70/payroll-management-system) |
+| **AI Image Studio** | AI-powered image analysis and captioning platform with multimodal AI | React, TypeScript, Node.js, Express, Google Gemini API, Tailwind | [Demo](#) 
+| **Portfolio Website** | Personal portfolio with server-side rendering and 90+ Lighthouse scores | Next.js, React, Tailwind, TypeScript | [Live](https://my-portfolio-pi-three-50.vercel.app/) 
+| **Car Rental System** | Full-featured car rental management application | PHP, MySQL, JavaScript | [Code](https://github.com/Fangup70/Car-rental-System) |
+| **Payroll Management** | Complete payroll system with admin workflows | PHP, MySQL, JavaScript | [Code](https://github.com/Fangup70/payroll-management-system) |
 
 </div>
 
@@ -108,7 +108,7 @@ const anup = {
 
 ---
 
-## 📫 Let's Connect!
+## Let's Connect!
 
 <div align="center">
 
@@ -119,7 +119,7 @@ const anup = {
 
 ---
 
-## ✍️ Random Dev Quote
+## Random Dev Quote
 
 <div align="center">
   
@@ -131,7 +131,7 @@ const anup = {
 
 <div align="center">
   
-### 💖 Show some love by starring ⭐ some repositories!
+### Show some love by starring ⭐ some repositories!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 
