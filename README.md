@@ -4,11 +4,11 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Integration+Specialist;Building+Scalable+Web+Apps;Open+Source+Enthusiast" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2E9EF7?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anupkumar06)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2E9EF7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://my-portfolio-pi-three-50.vercel.app/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-2E9EF7?style=for-the-badge&logo=CodeChef&logoColor=white)](https://codechef.com/users/anup13)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-F3BE7A?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anupkumar06)
+[![Portfolio](https://img.shields.io/badge/Portfolio-F3BE7A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://my-portfolio-pi-three-50.vercel.app/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-F3BE7A?style=for-the-badge&logo=CodeChef&logoColor=white)](https://codechef.com/users/anup13)
 
-<img src="https://komarev.com/ghpvc/?username=Fangup70&label=Profile%20views&color=2E9EF7&style=for-the-badge" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=Fangup70&label=Profile%20views&color=F3BE7A&style=for-the-badge" alt="profile views" />
 
 </div>
 
@@ -18,12 +18,12 @@
 
 ```typescript
 const anup = {
-    location: "Bengaluru, Karnataka 📍",
+    location: "📍 Bengaluru, Karnataka ",
     education: "B.Tech Computer Science @ MVJ College of Engineering",
     currentFocus: "Building AI-powered full-stack applications",
     learning: ["TypeScript", "System Design", "Advanced React Patterns"],
     interests: ["Web Development", "AI/ML", "Cloud Computing", "Open Source"],
-    funFact: "Started coding by customizing my college's website! 🎨"
+    funFact: "Started coding by customizing my college's website! "
 };
 ```
 
@@ -37,36 +37,36 @@ const anup = {
 ##  Tech Stack
 
 ### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-2E9EF7?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-2E9EF7?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-2E9EF7?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-2E9EF7?style=for-the-badge&logo=mysql&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-2E9EF7?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-2E9EF7?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F3BE7A?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-F3BE7A?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-F3BE7A?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-F3BE7A?style=for-the-badge&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-F3BE7A?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-F3BE7A?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### Frontend Development
-![React](https://img.shields.io/badge/React-2E9EF7?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-2E9EF7?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-2E9EF7?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-2E9EF7?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-2E9EF7?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-F3BE7A?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-F3BE7A?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-F3BE7A?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-F3BE7A?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-F3BE7A?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-2E9EF7?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-2E9EF7?style=for-the-badge&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-2E9EF7?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-2E9EF7?style=for-the-badge&logo=mongodb&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-F3BE7A?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-F3BE7A?style=for-the-badge&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-F3BE7A?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-F3BE7A?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### AI & Cloud
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-2E9EF7?style=for-the-badge&logo=google&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-2E9EF7?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-2E9EF7?style=for-the-badge&logo=vercel&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-F3BE7A?style=for-the-badge&logo=google&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-F3BE7A?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-F3BE7A?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### Tools & Others
-![Git](https://img.shields.io/badge/Git-2E9EF7?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-2E9EF7?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-2E9EF7?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-2E9EF7?style=for-the-badge&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F3BE7A?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-F3BE7A?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-F3BE7A?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-F3BE7A?style=for-the-badge&logo=linux&logoColor=white)
 
 ---
 
@@ -90,18 +90,18 @@ const anup = {
 <table>
   <tr>
     <td>
-      <img src="https://img.shields.io/badge/Oracle-OCI_Gen_AI_Professional-2E9EF7?style=for-the-badge&logo=oracle&logoColor=white" />
+      <img src="https://img.shields.io/badge/Oracle-OCI_Gen_AI_Professional-F3BE7A?style=for-the-badge&logo=oracle&logoColor=white" />
     </td>
     <td>
-      <img src="https://img.shields.io/badge/AWS-Cloud_Foundations-2E9EF7?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+      <img src="https://img.shields.io/badge/AWS-Cloud_Foundations-F3BE7A?style=for-the-badge&logo=amazon-aws&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td>
-      <img src="https://img.shields.io/badge/Udemy-Python_Developer-2E9EF7?style=for-the-badge&logo=udemy&logoColor=white" />
+      <img src="https://img.shields.io/badge/Udemy-Python_Developer-F3BE7A?style=for-the-badge&logo=udemy&logoColor=white" />
     </td>
     <td>
-      <img src="https://img.shields.io/badge/Udemy-Ethical_Hacking-2E9EF7?style=for-the-badge&logo=udemy&logoColor=white" />
+      <img src="https://img.shields.io/badge/Udemy-Ethical_Hacking-F3BE7A?style=for-the-badge&logo=udemy&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -112,8 +112,8 @@ const anup = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-2E9EF7?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anupkumar06)
-[![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-2E9EF7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://my-portfolio-pi-three-50.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-F3BE7A?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anupkumar06)
+[![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-F3BE7A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://my-portfolio-pi-three-50.vercel.app/)
 
 </div>
 
