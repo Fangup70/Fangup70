@@ -85,15 +85,6 @@ const anup = {
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Fangup70&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Fangup70&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
 ## 🎓 Certifications
 
 <table>
