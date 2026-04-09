@@ -76,7 +76,7 @@ const anup = {
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
-| **AI Image Studio** | AI-powered image analysis and captioning platform with multimodal AI | React, TypeScript, Node.js, Express, Google Gemini API, Tailwind | [Demo](#)-E87F24
+| **AI Image Studio** | AI-powered image analysis and captioning platform with multimodal AI | React, TypeScript, Node.js, Express, Google Gemini API, Tailwind | [Demo](#)
 | **Portfolio Website** | Personal portfolio with server-side rendering and 90+ Lighthouse scores | Next.js, React, Tailwind, TypeScript | [Live](https://my-portfolio-pi-three-50.vercel.app/) 
 | **Car Rental System** | Full-featured car rental management application | PHP, MySQL, JavaScript | [Code](https://github.com/Fangup70/Car-rental-System) |
 | **Payroll Management** | Complete payroll system with admin workflows | PHP, MySQL, JavaScript | [Code](https://github.com/Fangup70/payroll-management-system) |
