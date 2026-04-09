@@ -2,7 +2,7 @@
   
 # Hi👋, I'm Anup Kumar S P
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Integration+Specialist;Building+Scalable+Web+Apps;Open+Source+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=E87F24&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Integration+Specialist;Building+Scalable+Web+Apps;Open+Source+Enthusiast" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-E87F24?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anupkumar06)
 [![Portfolio](https://img.shields.io/badge/Portfolio-E87F24?style=for-the-badge&logo=google-chrome&logoColor=white)](https://my-portfolio-pi-three-50.vercel.app/)
